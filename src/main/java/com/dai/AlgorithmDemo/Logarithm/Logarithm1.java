@@ -33,5 +33,10 @@ public class Logarithm1 {
         for (int j = 0; j < K; j++) {
             System.out.println(j + " 这个数, 出现了: " + counts[j] + " 次");
         }
+        System.out.println("111111111111111");
+        System.out.println("222222222222222");
+        System.out.println("333333333333333");
+        System.out.println("444444444444444");
+        System.out.println("555555555555555");
     }
 }
