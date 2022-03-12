@@ -13,6 +13,11 @@ public class AlgorithmApplication {
         System.out.println("我是张三我在工作............");
         System.out.println("我是张三我在工作............");
         System.out.println("我是张三我在工作............");
+        System.out.println("我是李四我在工作............");
+        System.out.println("我是李四我在工作............");
+        System.out.println("我是李四我在工作............");
+        System.out.println("我是李四我在工作............");
+        System.out.println("我是李四我在工作............");
     }
 
 }
