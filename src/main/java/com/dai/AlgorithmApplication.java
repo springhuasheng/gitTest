@@ -8,6 +8,11 @@ public class AlgorithmApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AlgorithmApplication.class, args);
+        System.out.println("我是张三我在工作............");
+        System.out.println("我是张三我在工作............");
+        System.out.println("我是张三我在工作............");
+        System.out.println("我是张三我在工作............");
+        System.out.println("我是张三我在工作............");
     }
 
 }
